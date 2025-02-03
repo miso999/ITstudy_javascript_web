@@ -1,0 +1,23 @@
+.londonBox {
+  background-color: grey;
+  padding: 20px;
+  border-color: 1px solid grey;
+  font-weight: 700;
+  margin: 0px;
+}
+
+.parisBox {
+  background-color: grey;
+  padding: 20px 25px;
+  border-color: 1px solid grey;
+  font-weight: 700;
+  margin: 0px;
+}
+
+.tokyoBox {
+  background-color: grey;
+  padding: 20px 25px;
+  border-color: 1px solid grey;
+  font-weight: 700;
+  margin: 0px;
+}
