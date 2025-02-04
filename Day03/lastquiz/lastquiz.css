@@ -1,14 +1,6 @@
 .div {
-  position: relative;
+  border: 1px solid black;
   width: 400px;
   display: flex;
-  flex-direction: row;
-}
-
-.input {
-  width: 400px;
-}
-
-.btn {
-  position: absolute;
+  justify-content: space-between;
 }
